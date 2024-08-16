@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Ufone\DWPAPI\DWPAPI\bin\Release\netcoreapp3.0\publish\</_PublishTargetUrl>
+    <History>True|2024-08-09T19:57:52.9550067Z;True|2024-08-09T03:16:43.3384080+05:00;True|2024-08-09T03:08:37.1564587+05:00;True|2024-08-09T01:58:58.7921769+05:00;True|2024-08-08T18:00:11.4525271+05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
